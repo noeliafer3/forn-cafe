@@ -2,7 +2,7 @@
 
 Web de una sola página (scroll) para una panadería-cafetería ficticia, hecha con HTML, CSS y JavaScript sin frameworks ni build. Diseño propio en Canva
 
-**Demo:** https://TU-USUARIO.github.io/forn-cafe
+**Demo:** https://noeliafer3.github.io/forn-cafe
 
 ## Funcionalidades
 - Hero con vídeo de fondo (con imagen de carga y pausa si el usuario prefiere menos movimiento)
